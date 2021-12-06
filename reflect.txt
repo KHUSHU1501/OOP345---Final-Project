@@ -1,0 +1,17 @@
+// Name: Khushwant Singh Rao
+// Seneca Student ID: 145931192
+// Seneca email: ksrao1@myseneca.ca
+// Date of completion: Dec 2, 2021
+//
+// I confirm that I am the only author of this file
+//   and the content was created entirely by me.
+
+
+The start of this workshop was smooth and the time available to complete milestones 1 and 2 was more than enough. I was able to start the project early and thus finished milestone 2 two weeks before the final due date. I had about 13 days to complete milestone 3.
+
+Milestone 3 was relatively difficult in comparison with the first two milestones. WorkStation module had one difficult and tricky function to implement and that was attempToMoveOrder(). I find it difficult because it used the functions which were to be implemented later in the module such as operator overload +=. It took time to figure out all the conditions and the silliest mistake I was doing was to not consider the fact that m_orders can be empty.
+
+The LineManager module was also tricky, especially the run function as it was of type bool and I was confused about how to update the count of m_cntCustomerOrders based on if the orders have been filled or not. I was in the wrong impression that if the size of the pending container is 0 then all the orders are filled. I was stuck there for 3 days.
+
+
+Overall the project was challenging and the time allocated was enough, but I was not happy with dividing modules between milestones. I would have preferred milestone 1 containing Utilities, Station, and CustomerOrders module and milestone 2 having workstation module and milestone 3 having LineManager module.
